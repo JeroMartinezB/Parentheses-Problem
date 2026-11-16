@@ -1,6 +1,3 @@
-// Jeronimo Martinez Barragan
-// CSC 300
-// Assignment 4
 // Stack and Map implementation to check if user input of parenthesis is properly balanced
 // Implemented information and API's about Map in java 
 // Source: https://www.geeksforgeeks.org/map-interface-java-examples/#
